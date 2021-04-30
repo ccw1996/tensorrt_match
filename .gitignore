@@ -1,0 +1,6 @@
+*.so
+*.egg
+*.egg-info
+*.onnx
+*.trt
+.vscode
